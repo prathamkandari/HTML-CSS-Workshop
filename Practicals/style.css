@@ -1,0 +1,32 @@
+
+html{
+    background-color: #000;
+
+}
+
+body{
+    background-color: #000;
+}
+
+#header1{
+    background-color: red;
+}
+
+.submit {
+    background-color: rgba(55, 55, 163);
+    padding: 10%;
+    margin-left: 20%;
+    border-radius: 8px;
+    color: aliceblue;
+    border: 5px solid #000;
+    font-size: 30px;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+
+.submit:hover{
+    padding: 12%;
+    transform: scale(50%);
+    transition: 0.2s ease-in-out;
+}
+
